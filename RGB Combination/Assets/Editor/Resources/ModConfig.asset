@@ -18,4 +18,4 @@ MonoBehaviour:
     can be found at ktane.timwi.de\r\n"
   version: 1.0.0
   outputFolder: build
-  previewImage: {fileID: 2800000, guid: 13d011e0bc4d1be40b002b6ad8a83dda, type: 3}
+  previewImage: {fileID: 2800000, guid: 51452cf8124f03843903459f8a35941c, type: 3}
