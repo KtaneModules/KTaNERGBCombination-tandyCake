@@ -103,6 +103,8 @@ public class RGBCombinationScript : MonoBehaviour {
             StartCoroutine(Fade(renderers[i], colors[values[i]], 1.0f, texts[i]));
             yield return new WaitForSeconds(0.75f);
         }
+        if (Colorblind.ColorblindModeActive && !cbON)
+            ToggleCB();
     }
 
     IEnumerator Fade(MeshRenderer renderer, Color target, float time, TextMesh text = null)

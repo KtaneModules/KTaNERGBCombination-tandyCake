@@ -13,9 +13,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: rgbCombination
   title: RGB Combination
-  author: Danny7007
-  description: "I'm feeling colorful...\n\nModule by Danny7007\r\nmoduleID: rgbCombination\r\nmanual
+  author: tandyCake
+  description: "I'm feeling colorful...\n\nModule by tandyCake\r\nmoduleID: rgbCombination\r\nmanual
     can be found at ktane.timwi.de\r\n"
-  version: 1.0.0
+  version: 2.1.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 51452cf8124f03843903459f8a35941c, type: 3}
